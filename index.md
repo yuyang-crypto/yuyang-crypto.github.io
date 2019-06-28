@@ -1,4 +1,4 @@
-<img src="head.jpg" width="240" height="320" alt="我的头像"/>   # Yang Yu 喻杨 
+# <img src="head.jpg" width="240" height="320" alt="我的头像"> Yang Yu 喻杨 
 
 ### About
 I am a postdoc in the EMSEC team of IRISA in Rennes. Prior to that, I was a postdoc in the Crypto group of CWI in Amsterdam. I completed my PhD in 2018 at Tsinghua University under the supervision of Prof. Xiaoyun Wang.  
