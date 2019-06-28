@@ -1,8 +1,7 @@
 
 <html>  
-<head>  
-<div id="Layer1" style="width = "2000"; height = "300"; z-index:-1">  
-<img src="head.jpg" height="100%" width="100%"/>  
+<head>   
+<img src="bg.jpg" height="20%" width="100%"/>  
 </div>  
 </head>  
 </html> 
