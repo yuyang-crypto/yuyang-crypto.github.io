@@ -1,4 +1,4 @@
-## Welcome to Yang Yu's homepage
+# Welcome to Yang Yu's homepage
 
 I am a postdoc in the EMSEC team of IRISA in Rennes. Prior to that, I was a postdoc in the Crypto group of CWI in Amsterdam. I completed my PhD in 2018 at Tsinghua University under the supervision of Prof. Xiaoyun Wang.  
 
@@ -7,11 +7,11 @@ My research interest is lattice based cryptography, particularly (1) designing a
 
 # Publications
 
-### Conference papers
+## Conference papers
 
-### Journal papers
+## Journal papers
 
-### Preprints
+## Preprints
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
