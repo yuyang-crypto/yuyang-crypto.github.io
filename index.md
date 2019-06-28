@@ -1,6 +1,5 @@
 # <img align="right" src="head.jpg" width="240" height="320" alt="我的头像">  Yang Yu 喻杨
 
-### About me
 I am a postdoc in the EMSEC team of IRISA in Rennes. Prior to that, I was a postdoc in the Crypto group of CWI in Amsterdam. I completed my PhD in 2018 at Tsinghua University under the supervision of Prof. Xiaoyun Wang.  
 
 My research interest is lattice based cryptography, particularly (1) designing and analyzing new lattice algorithms, (2) new attacks and concrete security estimates, (3) ptimizing and designing practical cryptosystems.
