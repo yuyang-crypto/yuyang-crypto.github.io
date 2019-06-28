@@ -5,8 +5,8 @@ My research interest is lattice based cryptography, particularly (1) designing a
 
 ### Email
 yang.yu0986@gmail.com
-### Address Office 
-F309, IRISA, Rennes, France
+### Address 
+Office F309, IRISA, Rennes, France
 
 # Publications
 
