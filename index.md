@@ -10,11 +10,11 @@ Office F309, IRISA, Rennes, France
 
 # Publications
 
-## Conference papers
+### Conference papers
 
-## Journal papers
+### Journal papers
 
-## Preprints
+### Preprints
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
