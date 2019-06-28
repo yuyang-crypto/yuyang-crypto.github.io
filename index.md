@@ -22,7 +22,7 @@ _Address:_ Office F309, IRISA, Rennes, France
 
 ### Journal papers
 1. [A New Discrete Gaussian Sampler over Orthogonal Lattices.](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)    
-   [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu** and Jingguo Bi.     
+   [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu** and [Jingguo Bi](http://www.castu.tsinghua.edu.cn/publish/cas/1696/2015/20150616142420143920698/20150616142420143920698_.html).     
    In: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences.
 2. [Klepto for Ring-LWE Encryption.](https://academic.oup.com/comjnl/article-abstract/61/8/1228/5035449)  
    [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu**.    
