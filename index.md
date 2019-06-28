@@ -1,4 +1,5 @@
-header-img : "head.jpg"
+header-img : head.jpg
+body { background:url(head.jpg）);}
 
 <img align="left" src="head.jpg" width="180" height="240" alt="我的头像"> 
 I am a postdoc in the [EMSEC](https://www.irisa.fr/emsec/) team of IRISA in Rennes. Prior to that, I was a postdoc in the [CWI Crypto group](https://www.cwi.nl/research/groups/cryptology) in Amsterdam. I completed my PhD in 2018 at Tsinghua University under the supervision of Prof. [Xiaoyun Wang](http://www.castu.tsinghua.edu.cn/publish/casen/1695/2010/20101224093253705266640/20101224093253705266640_.html).   
