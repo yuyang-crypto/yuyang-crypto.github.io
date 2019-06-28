@@ -1,18 +1,1 @@
 theme: jekyll-theme-midnight
-
-{% if theme.copyright %}
-  <div class="powered-by">{#
-  #}{{ __('footer.powered', '<a class="theme-link" href="https://hexo.io">Hexo</a>') }}{#
-#}</div>
-
-  <span class="post-meta-divider">|</span>
-
-  <div class="theme-info">
-  <span>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></span>
-  </div>
-{% endif %}
---------------------- 
-作者：yanzi1225627 
-来源：CSDN 
-原文：https://blog.csdn.net/yanzi1225627/article/details/77890416 
-版权声明：本文为博主原创文章，转载请附上博文链接！
