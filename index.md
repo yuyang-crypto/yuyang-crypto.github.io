@@ -20,8 +20,6 @@ _Address:_ Office F309, IRISA, Rennes, France
 <br/>
 &nbsp;
 &nbsp;
-<br/>
-<br/>
 #       Publications
 
 ### Conference papers
