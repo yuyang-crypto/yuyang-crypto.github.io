@@ -1,7 +1,7 @@
 
 <html>  
 <body>  
-<div id="Layer1" style="position:absolute; width:100%; height:100%; z-index:-1">  
+<div id="Layer1" style="width = "2000"; height = "300"; z-index:-1">  
 <img src="head.jpg" height="100%" width="100%"/>  
 </div>  
 </body>  
