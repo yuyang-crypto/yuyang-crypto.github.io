@@ -1,10 +1,10 @@
 
 <html>  
-<body>  
+<head>  
 <div id="Layer1" style="width = "2000"; height = "300"; z-index:-1">  
 <img src="head.jpg" height="100%" width="100%"/>  
 </div>  
-</body>  
+</head>  
 </html> 
 
 <img align="left" src="head.jpg" width="180" height="240" alt="我的头像"> 
