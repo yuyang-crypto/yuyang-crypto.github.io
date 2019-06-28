@@ -1,7 +1,7 @@
 
 <html>  
 <head>   
-<img src="bg.jpg" height="270" width="150%"/>  
+<img src="bg.jpg" height="270" width="100%"/>  
 </head>  
 </html> 
 
