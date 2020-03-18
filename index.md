@@ -24,10 +24,10 @@ _Address:_ Office F309, IRISA, Rennes, France
 
 ### Conference papers
 1. [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices.](https://eprint.iacr.org/2019/1180)
-   [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Paul Kirchner and [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/pub.html) and [Alexandre Wallet](https://awallet.github.io/) and **Yang Yu**
+   [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Paul Kirchner and [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/pub.html) and [Alexandre Wallet](https://awallet.github.io/) and **Yang Yu**.       
    In: Eurocrypt 2020.
 2. [Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats.](https://eprint.iacr.org/2019/320)    
-   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and [Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) and [Thomas Prest](https://tprest.github.io/) and **Yang Yu**.
+   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and [Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) and [Thomas Prest](https://tprest.github.io/) and **Yang Yu**.       
    In: Eurocrypt 2020.
 3. [Learning Strikes Again: the Case of the DRS Signature Scheme.](https://eprint.iacr.org/2018/294)    
    **Yang Yu** and [Léo Ducas](https://homepages.cwi.nl/~ducas/).        
