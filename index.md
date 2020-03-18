@@ -23,7 +23,7 @@ _Address:_ Office F309, IRISA, Rennes, France
 #       Publications
 
 ### Conference papers
-1. [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices.](https://eprint.iacr.org/2019/1180)
+1. [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices.](https://eprint.iacr.org/2019/1180)    
    [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Paul Kirchner and [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/pub.html) and [Alexandre Wallet](https://awallet.github.io/) and **Yang Yu**.       
    In: Eurocrypt 2020.
 2. [Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats.](https://eprint.iacr.org/2019/320)    
