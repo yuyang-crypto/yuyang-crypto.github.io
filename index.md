@@ -24,13 +24,19 @@ _Address:_ Office F309, IRISA, Rennes, France
 #       Publications
 
 ### Conference papers
-1. [Learning Strikes Again: the Case of the DRS Signature Scheme.](https://eprint.iacr.org/2018/294)    
+1. [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices.](https://eprint.iacr.org/2019/1180)
+   [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Paul Kirchner and [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/pub.html) and [Alexandre Wallet](https://awallet.github.io/) and **Yang Yu**
+   In: Eurocrypt 2020.
+2. [Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats.](https://eprint.iacr.org/2019/320)    
+   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and [Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) and [Thomas Prest](https://tprest.github.io/) and **Yang Yu**.
+   In: Eurocrypt 2020.
+3. [Learning Strikes Again: the Case of the DRS Signature Scheme.](https://eprint.iacr.org/2018/294)    
    **Yang Yu** and [Léo Ducas](https://homepages.cwi.nl/~ducas/).        
    In: Asiacrypt 2018.
-2. [Second Order Statistical Behavior of LLL and BKZ.](https://eprint.iacr.org/2017/730)    
+4. [Second Order Statistical Behavior of LLL and BKZ.](https://eprint.iacr.org/2017/730)    
    **Yang Yu** and [Léo Ducas](https://homepages.cwi.nl/~ducas/).       
    In: SAC 2017.
-3. [Provably Secure NTRU Instances over Prime Cyclotomic Rings.](https://link.springer.com/chapter/10.1007/978-3-662-54365-8_17)    
+5. [Provably Secure NTRU Instances over Prime Cyclotomic Rings.](https://link.springer.com/chapter/10.1007/978-3-662-54365-8_17)    
    **Yang Yu** and [Guangwu Xu](http://people.uwm.edu/gxu4uwm/) and [Xiaoyun Wang](http://www.castu.tsinghua.edu.cn/publish/casen/1695/2010/20101224093253705266640/20101224093253705266640_.html).        
    In: PKC 2017.
 
@@ -49,9 +55,7 @@ _Address:_ Office F309, IRISA, Rennes, France
    In: Information Sciences.
 
 ### Preprints
-1. [Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats.](https://eprint.iacr.org/2019/320)    
-   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and [Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) and [Thomas Prest](https://tprest.github.io/) and **Yang Yu**.
-2. [Provably Secure NTRUEncrypt over More General Cyclotomic Rings.](https://eprint.iacr.org/2017/304)    
+1. [Provably Secure NTRUEncrypt over More General Cyclotomic Rings.](https://eprint.iacr.org/2017/304)    
    **Yang Yu** and [Guangwu Xu](http://people.uwm.edu/gxu4uwm/) and [Xiaoyun Wang](http://www.castu.tsinghua.edu.cn/publish/casen/1695/2010/20101224093253705266640/20101224093253705266640_.html).    
 
 
