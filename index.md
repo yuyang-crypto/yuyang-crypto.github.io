@@ -40,8 +40,8 @@ _Address:_ Office F309, IRISA, Rennes, France
    In: PKC 2017.
 
 ### Journal papers
-1. [Learning Strikes Again: the Case of the DRS Signature Scheme.](https://eprint.iacr.org/2018/294)
-   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and **Yang Yu**. 
+1. [Learning Strikes Again: the Case of the DRS Signature Scheme.](https://eprint.iacr.org/2018/294)    
+   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and **Yang Yu**.    
    In: Journal of Cryptology. 
 2. [A New Discrete Gaussian Sampler over Orthogonal Lattices.](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)    
    [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu** and [Jingguo Bi](http://www.castu.tsinghua.edu.cn/publish/cas/1696/2015/20150616142420143920698/20150616142420143920698_.html).     
