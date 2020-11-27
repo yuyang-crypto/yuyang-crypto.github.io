@@ -40,16 +40,19 @@ _Address:_ Office F309, IRISA, Rennes, France
    In: PKC 2017.
 
 ### Journal papers
-1. [A New Discrete Gaussian Sampler over Orthogonal Lattices.](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)    
+1. [Learning Strikes Again: the Case of the DRS Signature Scheme.](https://eprint.iacr.org/2018/294)
+   [Léo Ducas](https://homepages.cwi.nl/~ducas/) and **Yang Yu**. 
+   In: Journal of Cryptology. 
+2. [A New Discrete Gaussian Sampler over Orthogonal Lattices.](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)    
    [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu** and [Jingguo Bi](http://www.castu.tsinghua.edu.cn/publish/cas/1696/2015/20150616142420143920698/20150616142420143920698_.html).     
    In: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences.
-2. [Klepto for Ring-LWE Encryption.](https://academic.oup.com/comjnl/article-abstract/61/8/1228/5035449)  
+3. [Klepto for Ring-LWE Encryption.](https://academic.oup.com/comjnl/article-abstract/61/8/1228/5035449)  
    [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu**.    
    In: The Computer Journal.
-3. [Cryptanalysis of Compact-LWE and Related Lightweight Public Key Encryption.](https://www.hindawi.com/journals/scn/2018/4957045/)    
+4. [Cryptanalysis of Compact-LWE and Related Lightweight Public Key Encryption.](https://www.hindawi.com/journals/scn/2018/4957045/)    
    [Dianyan Xiao](https://xiaodianyan.github.io/) and **Yang Yu**.    
    In: Security and Communication Networks.
-4. [Improved Broadcast Attacks against Subset Sum Problems via Lattice Oracle.](https://www.sciencedirect.com/science/article/pii/S0020025518302780)    
+5. [Improved Broadcast Attacks against Subset Sum Problems via Lattice Oracle.](https://www.sciencedirect.com/science/article/pii/S0020025518302780)    
    **Yang Yu** and [Dianyan Xiao](https://xiaodianyan.github.io/).    
    In: Information Sciences.
 
