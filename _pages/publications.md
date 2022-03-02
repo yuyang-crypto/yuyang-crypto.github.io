@@ -26,8 +26,7 @@ author_profile: true
 
 * [Learning Strikes Again: the Case of the DRS Signature Scheme](https://eprint.iacr.org/2018/294)    
    Léo Ducas and Yang Yu    
-   In Journal : Journal of Cryptology    
-   (Extended version of [[YD18](https://eprint.iacr.org/2018/294)])
+   In Journal : Journal of Cryptology
 
 * [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices](https://eprint.iacr.org/2019/1180)    
    Pierre-Alain Fouque, Paul Kirchner, Mehdi Tibouchi, Alexandre Wallet and Yang Yu       
