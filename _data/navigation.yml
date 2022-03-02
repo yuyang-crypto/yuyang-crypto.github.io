@@ -8,6 +8,4 @@ main:
     
   - title: "About Me"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
