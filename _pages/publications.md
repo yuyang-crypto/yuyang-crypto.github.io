@@ -7,21 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-* [Mitaka: a simpler, parallelizable, maskable variant of Falcon](https://eprint.iacr.org/2021/1486)
-   Thomas Espitau, Pierre-Alain Fouque, François Gérard, Mélissa Rossi, Akira Takahashi, Mehdi Tibouchi, Alexandre Wallet and Yang Yu
-   To Appear : EUROCRYPT 2022
+* [Mitaka: a simpler, parallelizable, maskable variant of Falcon](https://eprint.iacr.org/2021/1486)    
+   Thomas Espitau, Pierre-Alain Fouque, François Gérard, Mélissa Rossi, Akira Takahashi, Mehdi Tibouchi, Alexandre Wallet and Yang Yu    
+   To Appear : EUROCRYPT 2022    
    (Preliminary versions, [[ETTW21](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/espitau-mitaka-pqc2021.pdf)] and [[FGRY21](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/yang-zalcon-pqc2021.pdf)] in Third NIST PQC Standardization Conference)
 
-* [BAT: Small and Fast KEM over NTRU Lattices](https://eprint.iacr.org/2022/031)
-   Pierre-Alain Fouque, Paul Kirchner, Thomas Pornin and Yang Yu
+* [BAT: Small and Fast KEM over NTRU Lattices](https://eprint.iacr.org/2022/031)    
+   Pierre-Alain Fouque, Paul Kirchner, Thomas Pornin and Yang Yu    
    In Proceeding : CHES 2022
 
-* [Towards a Simpler Lattice Gadget Toolkit](https://eprint.iacr.org/2021/1664)
-   Shiduo Zhang and Yang Yu
+* [Towards a Simpler Lattice Gadget Toolkit](https://eprint.iacr.org/2021/1664)    
+   Shiduo Zhang and Yang Yu    
    In Proceeding : PKC 2022
 
-* [Zalcon: an alternative FPA-free NTRU sampler for Falcon](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/yang-zalcon-pqc2021.pdf)
-   Pierre-Alain Fouque, François Gérard, Mélissa Rossi and Yang Yu
+* [Zalcon: an alternative FPA-free NTRU sampler for Falcon](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/yang-zalcon-pqc2021.pdf)    
+   Pierre-Alain Fouque, François Gérard, Mélissa Rossi and Yang Yu    
    In : Third NIST PQC Standardization Conference
 
 * [Learning Strikes Again: the Case of the DRS Signature Scheme](https://eprint.iacr.org/2018/294)    
@@ -38,7 +38,7 @@ author_profile: true
 
 * [Learning Strikes Again: the Case of the DRS Signature Scheme](https://eprint.iacr.org/2018/294)    
    Yang Yu and Léo Ducas        
-   In Proceeding : Asiacrypt 2018
+   In Proceeding : Asiacrypt 2018    
    (One of three top rated papers)
 
 * [A New Discrete Gaussian Sampler over Orthogonal Lattices](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)
@@ -62,9 +62,9 @@ author_profile: true
    In Proceeding : SAC 2017
 
 *  [Provably Secure NTRUEncrypt over More General Cyclotomic Rings](https://eprint.iacr.org/2017/304)    
-   Yang Yu, Guangwu Xu and Xiaoyun Wang
+   Yang Yu, Guangwu Xu and Xiaoyun Wang    
    Pre-print
 
 * [Provably Secure NTRU Instances over Prime Cyclotomic Rings](https://link.springer.com/chapter/10.1007/978-3-662-54365-8_17)    
-   Yang Yu, Guangwu Xu and Xiaoyun Wang
+   Yang Yu, Guangwu Xu and Xiaoyun Wang    
    In Proceeding : PKC 2017
