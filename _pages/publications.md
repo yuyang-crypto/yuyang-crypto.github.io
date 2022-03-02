@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* [Mitaka: a simpler, parallelizable, maskable variant of Falcon](https://eprint.iacr.org/2021/1486)    
+* [MITAKA: A Simpler, Parallelizable, Maskable Variant of Falcon](https://eprint.iacr.org/2021/1486)    
    Thomas Espitau, Pierre-Alain Fouque, François Gérard, Mélissa Rossi, Akira Takahashi, Mehdi Tibouchi, Alexandre Wallet and Yang Yu    
    To Appear : EUROCRYPT 2022    
    (Preliminary versions, [[ETTW21](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/espitau-mitaka-pqc2021.pdf)] and [[FGRY21](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/yang-zalcon-pqc2021.pdf)] in Third NIST PQC Standardization Conference)
