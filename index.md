@@ -25,10 +25,10 @@ _Address:_ Office 1-404, Xizhulou Building, Tsinghua University, Beijing, China
 
 ### Conference papers
 1. [Towards a Simpler Lattice Gadget Toolkit.](https://eprint.iacr.org/2021/1664)
-   [Shiduo Zhang] and **Yang Yu**. 
+   Shiduo Zhang and **Yang Yu**. 
    In: PKC 2022.
 2. [Zalcon: an alternative FPA-free NTRU sampler for Falcon.](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/yang-zalcon-pqc2021.pdf)
-   [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and [François Gérard] and [Mélissa Rossi](https://melissarossi.fr/) and **Yang Yu**.
+   [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and François Gérard and [Mélissa Rossi](https://melissarossi.fr/) and **Yang Yu**.
    In: Third NIST PQC Standardization Conference.
 3. [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices.](https://eprint.iacr.org/2019/1180)    
    [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Paul Kirchner and [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/pub.html) and [Alexandre Wallet](https://awallet.github.io/) and **Yang Yu**.       
