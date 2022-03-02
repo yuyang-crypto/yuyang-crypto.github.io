@@ -41,8 +41,8 @@ author_profile: true
    In Proceeding : Asiacrypt 2018    
    (One of three top rated papers, invited to Journal of Cryptology)
 
-* [A New Discrete Gaussian Sampler over Orthogonal Lattices](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)
-   Dianyan Xiao, Yang Yu and Jingguo Bi
+* [A New Discrete Gaussian Sampler over Orthogonal Lattices](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)    
+   Dianyan Xiao, Yang Yu and Jingguo Bi    
    In Journal : IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences
 
 * [Klepto for Ring-LWE Encryption](https://academic.oup.com/comjnl/article-abstract/61/8/1228/5035449)  
@@ -55,7 +55,7 @@ author_profile: true
 
 * [Cryptanalysis of Compact-LWE and Related Lightweight Public Key Encryption](https://www.hindawi.com/journals/scn/2018/4957045/)    
    Dianyan Xiao and Yang Yu    
-   In Journal: Security and Communication Networks
+   In Journal : Security and Communication Networks
 
 * [Second Order Statistical Behavior of LLL and BKZ](https://eprint.iacr.org/2017/730)    
    Yang Yu and Léo Ducas       
