@@ -14,7 +14,7 @@ Program Committee
 Talks 
 ======
 * Zalcon: an alternative FPA-free NTRU sampler for Falcon
-    Third NIST PQC Standardization Conference. Online. ()
+   Third NIST PQC Standardization Conference. Online. (June 2021)
 * Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices        
    Eurocrypt 2020. Online. (May 2020)
 * Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats    
