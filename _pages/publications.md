@@ -26,7 +26,8 @@ author_profile: true
 
 * [Learning Strikes Again: the Case of the DRS Signature Scheme](https://eprint.iacr.org/2018/294)    
    Léo Ducas and Yang Yu    
-   In Journal : Journal of Cryptology.
+   In Journal : Journal of Cryptology    
+   (Extended version of [[YD18](https://eprint.iacr.org/2018/294)])
 
 * [Key Recovery from Gram-Schmidt Norm Leakage in Hash-and-Sign Signatures over NTRU Lattices](https://eprint.iacr.org/2019/1180)    
    Pierre-Alain Fouque, Paul Kirchner, Mehdi Tibouchi, Alexandre Wallet and Yang Yu       
@@ -34,12 +35,12 @@ author_profile: true
 
 * [Integral Matrix Gram Root and Lattice Gaussian Sampling without Floats](https://eprint.iacr.org/2019/320)    
    Léo Ducas, Steven Galbraith, Thomas Prest and Yang Yu       
-   In Proceeding : Eurocrypt 2020.
+   In Proceeding : Eurocrypt 2020
 
 * [Learning Strikes Again: the Case of the DRS Signature Scheme](https://eprint.iacr.org/2018/294)    
    Yang Yu and Léo Ducas        
    In Proceeding : Asiacrypt 2018    
-   (One of three top rated papers)
+   (One of three top rated papers, invited to Journal of Cryptology)
 
 * [A New Discrete Gaussian Sampler over Orthogonal Lattices](https://search.ieice.org/bin/summary.php?id=e101-a_11_1880)
    Dianyan Xiao, Yang Yu and Jingguo Bi
