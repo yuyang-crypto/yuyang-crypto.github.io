@@ -60,8 +60,8 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Yang Yu"
-  avatar           : "head.jpg"
-  bio              : "Assistant researcher \n Tsinghua University"
+  avatar           : "images/head.jpg"
+  bio              : "Assistant researcher \r\n Tsinghua University"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=pewUhS0AAAAJ&hl=en"
