@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Tsinghua University, 2013 - 2018 
-  * Supervisor: Prof. [Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/info/1016/1217.htm)
+* Ph.D in Computer Science, Tsinghua University, 2013 - 2018    
+  Supervisor: Prof. [Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/info/1016/1217.htm)
 * B.S. in Computer Science, Tsinghua University, 2009 - 2013
 
 Work experience
 ======
-* Assistant Researcher, 2020 - Present
-  * BNRist, Tsinghua University
+* Assistant Researcher, 2020 - Present    
+  BNRist, Tsinghua University
 
-* Postdoc, 2019 - 2020 
-  * CNRS, Université Rennes 1
-  * Hosted by Prof. [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Dr. [Adeline Roux-Langlois](http://people.irisa.fr/Adeline.Roux-Langlois/)
+* Postdoc, 2019 - 2020     
+  CNRS, Université Rennes 1    
+  Hosted by Prof. [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) and Dr. [Adeline Roux-Langlois](http://people.irisa.fr/Adeline.Roux-Langlois/)
 
-* Postdoc, 2018 - 2019
-  * CWI Cryptology Group
-  * Hosted by Prof. [Ronald Cramer](https://homepages.cwi.nl/~cramer/) and Dr. [Léo Ducas](https://homepages.cwi.nl/~ducas/)
+* Postdoc, 2018 - 2019    
+  CWI Cryptology Group    
+  Hosted by Prof. [Ronald Cramer](https://homepages.cwi.nl/~cramer/) and Dr. [Léo Ducas](https://homepages.cwi.nl/~ducas/)
 
 Awards
 ======
