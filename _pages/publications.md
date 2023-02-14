@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+* [Improved Power Analysis Attacks on Falcon]
+   Shiduo Zhang, Xiuhan Lin, Yang Yu and Weijia Wang
+   To Appear : EUROCRYPT 2023
+* [Lattice-based cryptosystems in standardisation processes: A survey](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ise2.12101)
+   Anyu Wang, Dianyan Xiao and Yang Yu
+   In Journal : IET Information Security
 * [Shorter Hash-and-Sign Lattice-Based Signatures](https://eprint.iacr.org/2022/785)    
    Thomas Espitau, Mehdi Tibouchi, Alexandre Wallet and Yang Yu    
-   To Appear : CRYPTO 2022    
+   In Preceeding : CRYPTO 2022    
 * [MITAKA: A Simpler, Parallelizable, Maskable Variant of Falcon](https://eprint.iacr.org/2021/1486)    
    Thomas Espitau, Pierre-Alain Fouque, François Gérard, Mélissa Rossi, Akira Takahashi, Mehdi Tibouchi, Alexandre Wallet and Yang Yu    
    In Proceeding : EUROCRYPT 2022    

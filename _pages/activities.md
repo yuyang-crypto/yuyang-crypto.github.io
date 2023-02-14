@@ -9,10 +9,17 @@ author_profile: true
 
 Program Committee
 ======
-* [Inscrypt 2021](https://cst.qd.sdu.edu.cn/inscrypt_2021/index.htm)
+* [Inscrypt 2022](http://www.sklois.cn/inscrypt2022/)
+* [Inscrypt 2021](https://inscrypt21.hotcrp.com/)
 
 Talks 
 ======
+* NTRU系列密码实用化设计
+   中国密码学会2022年青年论坛. 在线. (December 2022)
+* NTRU系列密码实用化设计
+   2022年中国密码学会年会 -- 密码学前沿交叉论坛. 在线. (December 2022)
+* BAT: Small and Fast KEM over NTRU Lattices
+   Monash Cybersecurity Seminar. Online. (April 2022)
 * Zalcon: an alternative FPA-free NTRU sampler for Falcon    
    中国计算机学会青年计算机科技论坛. 在线. (November 2021)
 * Zalcon: an alternative FPA-free NTRU sampler for Falcon    

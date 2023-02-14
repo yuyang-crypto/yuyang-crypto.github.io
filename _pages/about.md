@@ -19,6 +19,6 @@ I am particularly interested in studying lattice based cryptography from practic
 
 Contact Info
 ======
-* Email : yang.yu0986@gmail.com        
+* Email : yu-yang@mail.tsinghua.edu.cn, yang.yu0986@gmail.com        
 
 * Address : Office 1-404, Xizhulou Building, Tsinghua University, Beijing, China   
