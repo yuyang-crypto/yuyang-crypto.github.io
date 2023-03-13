@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [Improved Power Analysis Attacks on Falcon]    
+* [Improved Power Analysis Attacks on Falcon](https://eprint.iacr.org/2023/224)    
    Shiduo Zhang, Xiuhan Lin, Yang Yu and Weijia Wang    
    To Appear : EUROCRYPT 2023    
 * [Lattice-based cryptosystems in standardisation processes: A survey](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ise2.12101)    
