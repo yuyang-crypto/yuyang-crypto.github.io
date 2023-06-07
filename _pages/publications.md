@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures](https://eprint.iacr.org/2023/729)    
+   Yang Yu, Huiwen Jia and Xiaoyun Wang    
+   To Appear : CRYPTO 2023 
 * [Improved Power Analysis Attacks on Falcon](https://eprint.iacr.org/2023/224)    
    Shiduo Zhang, Xiuhan Lin, Yang Yu and Weijia Wang    
-   To Appear : EUROCRYPT 2023    
+   In Preceeding : EUROCRYPT 2023    
 * [Lattice-based cryptosystems in standardisation processes: A survey](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ise2.12101)    
    Anyu Wang, Dianyan Xiao and Yang Yu    
    In Journal : IET Information Security    
