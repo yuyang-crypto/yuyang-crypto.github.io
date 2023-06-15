@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* Assistant Researcher, 2020 - Present    
+* Associate Researcher, 2023 - Present    
+  Institute of Advanced Study, Tsinghua University
+
+* Assistant Researcher, 2020 - 2023    
   BNRist, Tsinghua University
 
 * Postdoc, 2019 - 2020     

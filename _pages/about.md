@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant researcher in BNRist, Tsinghua University in China. 
+I am currently an associate researcher in Institute for Advanced Study, Tsinghua University in China. 
 My main research area is lattice based cryptography that is a promising candidate for post-quantum cryptography offering 
 great performance and functionality. 
 I am particularly interested in studying lattice based cryptography from practical aspects, more specifically:
