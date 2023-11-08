@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [On Gaussian sampling, smoothing parameter and application to signatures](https://eprint.iacr.org/2023/1654)    
+   Thomas Espitau, Alexandre Wallet and Yang Yu        
+   In Proceeding : Asiacrypt 2023    
+   (One of two best papers, invited to Journal of Cryptology)
+* [Exploiting the Symmetry of $\mathbb{Z}^n$: Randomization and the Automorphism Problem]    
+   Kaijie Jiang, Anyu Wang, Hengyi Luo, Guoxiao Liu, Yang Yu and Xiaoyun Wang        
+   In Proceeding : Asiacrypt 2023    
+   (One of two best papers, invited to Journal of Cryptology)
 * [Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures](https://eprint.iacr.org/2023/729)    
    Yang Yu, Huiwen Jia and Xiaoyun Wang    
    To Appear : CRYPTO 2023 
