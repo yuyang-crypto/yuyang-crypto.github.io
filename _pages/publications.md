@@ -10,7 +10,7 @@ author_profile: true
    Thomas Espitau, Alexandre Wallet and Yang Yu        
    In Proceeding : Asiacrypt 2023    
    (One of two best papers, invited to Journal of Cryptology)
-* [Exploiting the Symmetry of $\mathbb{Z}^n$: Randomization and the Automorphism Problem]    
+* [Exploiting the Symmetry of $\mathbb{Z}^n$: Randomization and the Automorphism Problem](https://eprint.iacr.org/2023/1735)    
    Kaijie Jiang, Anyu Wang, Hengyi Luo, Guoxiao Liu, Yang Yu and Xiaoyun Wang        
    In Proceeding : Asiacrypt 2023    
    (One of two best papers, invited to Journal of Cryptology)
