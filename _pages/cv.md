@@ -33,6 +33,8 @@ Work experience
 
 Awards
 ======
+* Two best papers in Asiacrypt 2023. "On Gaussian sampling, smoothing parameter and application to signatures" (Joint work with [Thomas Espitau](https://espitau.github.io/) and [Alexandre Wallet](https://awallet.github.io/))    
+"Exploiting the Symmetry of $\mathbb{Z}^n$: Randomization and the Automorphism Problem" (Joint work with Kaijie Jiang, Anyu Wang, Hengyi Luo, Guoxiao Liu and Xiaoyun Wang)
 * One of three top rated papers in Asiacrypt 2018. "Learning Strikes Again: the Case of the DRS Signature Scheme" (Joint work with [Léo Ducas](https://homepages.cwi.nl/~ducas/))
 * China Internet Development Foundation Network Security Scholarship, 2017
 * Silver Award, Chinese Mathematical Olympiad, 2009 (Exempted of Tsinghua's Entrance Exam)

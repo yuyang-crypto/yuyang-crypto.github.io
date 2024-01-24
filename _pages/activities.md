@@ -9,6 +9,7 @@ author_profile: true
 
 Program Committee
 ======
+* [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
 * [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/)
 * [PQCrypto 2023](https://pqcrypto2023.umiacs.io/)
 * [Latincrypt 2023](https://www.espe.edu.ec/latincrypt/)
@@ -17,6 +18,24 @@ Program Committee
 
 Talks 
 ======
+* 高维格高斯测度与高斯采样
+   中国数学会2023年学术年会 -- 组合与计算机数学分组报告. 大连. (December 2023)
+* 高维格高斯测度与高斯采样
+   中国密码学会2023年会 -- 大会报告. 广州. (December 2023)
+* 基于格陷门的签名算法设计与分析
+   2023密码与安全前瞻性论坛 Tutorial. 杭州. (November 2023)
+* 基于格陷门的数字签名
+   中国密码学会2023年安全协议进展国际会议PSP 2023. 海口. (September 2023)
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+   抗量子密码专题学术报告暨《密码学报》学术沙龙（第一期）. 海口. (September 2023)
+* HuFu
+   Second Oxford Post-Quantum Cryptography Summit 2023. Oxford, UK. (September 2023)
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+   CRYTPO 2023. Online. (August 2023)
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+   昆明天元国际数学交流中心格理论与格密码研讨会. 昆明. (August 2023)
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+   中国密码学会密码数学理论专业委员会2023年密码算法设计学术研讨会. 青岛. (July 2023)
 * NTRU系列密码实用化设计
    中国密码学会2022年青年论坛. 在线. (December 2022)
 * NTRU系列密码实用化设计
