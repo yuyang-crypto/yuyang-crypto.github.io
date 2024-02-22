@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [Cryptanalysis of the Peregrine Lattice-Based Signature Scheme](https://eprint.iacr.org/2023/1628)    
+   Xiuhan Lin, Moeto Suzuki, Shiduo Zhang, Thomas Espitau, Yang Yu, Mehdi Tibouchi and Masayuki Abe        
+   In Proceeding : PKC 2024    
 * [On Gaussian sampling, smoothing parameter and application to signatures](https://eprint.iacr.org/2023/1654)    
    Thomas Espitau, Alexandre Wallet and Yang Yu        
    In Proceeding : Asiacrypt 2023    
@@ -14,6 +17,9 @@ author_profile: true
    Kaijie Jiang, Anyu Wang, Hengyi Luo, Guoxiao Liu, Yang Yu and Xiaoyun Wang        
    In Proceeding : Asiacrypt 2023    
    (One of two best papers, invited to Journal of Cryptology)
+* [Lattice-Based Cryptography: A Survey](https://camath.fudan.edu.cn/cambcn/ch/reader/view_abstract.aspx?file_no=202306009&flag=1)    
+   Xiaoyun Wang, Guangwu Xu, Yang Yu    
+   In Journal : Chinese Annals of Mathematics, Series B    
 * [Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures](https://eprint.iacr.org/2023/729)    
    Yang Yu, Huiwen Jia and Xiaoyun Wang    
    To Appear : CRYPTO 2023 
