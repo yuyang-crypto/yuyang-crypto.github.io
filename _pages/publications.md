@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [Compact Instruction Set Extensions for Kyber](https://ieeexplore.ieee.org/document/10294284)    
+   Lu Li, Guofeng Qin, Yang Yu and Weijia Wang        
+   In Journal : IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 * [Cryptanalysis of the Peregrine Lattice-Based Signature Scheme](https://eprint.iacr.org/2023/1628)    
    Xiuhan Lin, Moeto Suzuki, Shiduo Zhang, Thomas Espitau, Yang Yu, Mehdi Tibouchi and Masayuki Abe        
    In Proceeding : PKC 2024    
