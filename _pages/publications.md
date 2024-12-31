@@ -25,7 +25,7 @@ author_profile: true
    In Journal : Chinese Annals of Mathematics, Series B    
 * [Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures](https://eprint.iacr.org/2023/729)    
    Yang Yu, Huiwen Jia and Xiaoyun Wang    
-   To Appear : CRYPTO 2023 
+   In Preceeding : CRYPTO 2023 
 * [Improved Power Analysis Attacks on Falcon](https://eprint.iacr.org/2023/224)    
    Shiduo Zhang, Xiuhan Lin, Yang Yu and Weijia Wang    
    In Preceeding : EUROCRYPT 2023    
