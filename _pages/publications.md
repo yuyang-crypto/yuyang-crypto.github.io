@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [Do Not Disturb a Sleeping Falcon: Floating-Point Error Sensitivity of the Falcon Sampler and Its Consequences](https://eprint.iacr.org/2024/1709)    
+   Xiuhan Lin, Mehdi Tibouchi, Yang Yu and Shiduo Zhang    
+   In Preceeding : EUROCRYPT 2025  
+* [Thorough Power Analysis on Falcon Gaussian Samplers and Practical Countermeasure](https://eprint.iacr.org/2025/351)    
+   Xiuhan Lin, Shiduo Zhang, Yang Yu, Weijia Wang, Qidi You, Ximing Xu and Xiaoyun Wang        
+   In Proceeding : PKC 2025 
 * [Compact Instruction Set Extensions for Kyber](https://ieeexplore.ieee.org/document/10294284)    
    Lu Li, Guofeng Qin, Yang Yu and Weijia Wang        
    In Journal : IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
