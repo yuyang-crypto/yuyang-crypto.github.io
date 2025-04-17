@@ -9,6 +9,13 @@ author_profile: true
 
 Program Committee
 ======
+* [Inscrypt 2025](https://inscrypt2025.xidian.edu.cn/)
+* [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)
+* [ICICS 2025](https://www.icics2025.org/index.html)
+* [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
+* [FHE.org 2025](https://fhe.org/conferences/conference-2025/)
+* [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/)
+* [Inscrypt 2024](https://inscrypt2024.github.io/#)
 * [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
 * [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/)
 * [PQCrypto 2023](https://pqcrypto2023.umiacs.io/)
@@ -18,6 +25,12 @@ Program Committee
 
 Talks 
 ======
+* NTRU格签名安全性分析
+   中国密码学会2024年会 -- 优秀青年学者论坛报告. 杭州. (November 2024)
+* Gaussian on Lattices
+   International Workshop on Lattices and Related Topics. Beijing. (June 2024)
+* Cryptanalysis of the Peregrine Lattice-Based Signature Scheme
+   中国通信学会信息通信及安全数学理论年会 -- 大会报告. 西安. (April 2024)
 * 高维格高斯测度与高斯采样
    中国数学会2023年学术年会 -- 组合与计算机数学分组报告. 大连. (December 2023)
 * 高维格高斯测度与高斯采样
