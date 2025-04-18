@@ -9,19 +9,7 @@ author_profile: true
 
 Program Committee
 ======
-* [Inscrypt 2025](https://inscrypt2025.xidian.edu.cn/)
-* [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)
-* [ICICS 2025](https://www.icics2025.org/index.html)
-* [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
-* [FHE.org 2025](https://fhe.org/conferences/conference-2025/)
-* [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/)
-* [Inscrypt 2024](https://inscrypt2024.github.io/#)
-* [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
-* [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/)
-* [PQCrypto 2023](https://pqcrypto2023.umiacs.io/)
-* [Latincrypt 2023](https://www.espe.edu.ec/latincrypt/)
-* [Inscrypt 2022](http://www.sklois.cn/inscrypt2022/)
-* [Inscrypt 2021](https://inscrypt21.hotcrp.com/)
+[Inscrypt 2025](https://inscrypt2025.xidian.edu.cn/), [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html), [ICICS 2025](https://www.icics2025.org/index.html), [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/), [FHE.org 2025](https://fhe.org/conferences/conference-2025/), [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/), [Inscrypt 2024](https://inscrypt2024.github.io/#), [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024), [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/), [PQCrypto 2023](https://pqcrypto2023.umiacs.io/), [Latincrypt 2023](https://www.espe.edu.ec/latincrypt/), [Inscrypt 2022](http://www.sklois.cn/inscrypt2022/), [Inscrypt 2021](https://inscrypt21.hotcrp.com/)
 
 Talks 
 ======
