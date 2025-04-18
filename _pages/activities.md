@@ -13,35 +13,35 @@ Program Committee
 
 Talks 
 ======
-* NTRU格签名安全性分析
+* NTRU格签名安全性分析    
    中国密码学会2024年会 -- 优秀青年学者论坛报告. 杭州. (November 2024)
-* Gaussian on Lattices
+* Gaussian on Lattices    
    International Workshop on Lattices and Related Topics. Beijing. (June 2024)
-* Cryptanalysis of the Peregrine Lattice-Based Signature Scheme
+* Cryptanalysis of the Peregrine Lattice-Based Signature Scheme    
    中国通信学会信息通信及安全数学理论年会 -- 大会报告. 西安. (April 2024)
-* 高维格高斯测度与高斯采样
+* 高维格高斯测度与高斯采样    
    中国数学会2023年学术年会 -- 组合与计算机数学分组报告. 大连. (December 2023)
-* 高维格高斯测度与高斯采样
+* 高维格高斯测度与高斯采样    
    中国密码学会2023年会 -- 大会报告. 广州. (December 2023)
-* 基于格陷门的签名算法设计与分析
+* 基于格陷门的签名算法设计与分析    
    2023密码与安全前瞻性论坛 Tutorial. 杭州. (November 2023)
-* 基于格陷门的数字签名
+* 基于格陷门的数字签名    
    中国密码学会2023年安全协议进展国际会议PSP 2023. 海口. (September 2023)
-* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures    
    抗量子密码专题学术报告暨《密码学报》学术沙龙（第一期）. 海口. (September 2023)
-* HuFu
+* HuFu    
    Second Oxford Post-Quantum Cryptography Summit 2023. Oxford, UK. (September 2023)
-* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures    
    CRYTPO 2023. Online. (August 2023)
-* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures    
    昆明天元国际数学交流中心格理论与格密码研讨会. 昆明. (August 2023)
-* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures
+* Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures    
    中国密码学会密码数学理论专业委员会2023年密码算法设计学术研讨会. 青岛. (July 2023)
-* NTRU系列密码实用化设计
+* NTRU系列密码实用化设计    
    中国密码学会2022年青年论坛. 在线. (December 2022)
-* NTRU系列密码实用化设计
+* NTRU系列密码实用化设计    
    2022年中国密码学会年会 -- 密码学前沿交叉论坛. 在线. (December 2022)
-* BAT: Small and Fast KEM over NTRU Lattices
+* BAT: Small and Fast KEM over NTRU Lattices    
    Monash Cybersecurity Seminar. Online. (April 2022)
 * Zalcon: an alternative FPA-free NTRU sampler for Falcon    
    中国计算机学会青年计算机科技论坛. 在线. (November 2021)
