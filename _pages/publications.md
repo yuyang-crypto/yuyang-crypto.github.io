@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [GPV Preimage Sampling with Weak Smoothness and Its Applications to Lattice Signatures](https://eprint.iacr.org/2025/1940)    
+   Shiduo Zhang, Huiwen Jia, Delong Ran, Yang Yu, Yu Yu and Xiaoyun Wang    
+   In Preceeding : Asiacrypt 2025  
+* [Revisiting the Robustness of (R/M)LWR under Polynomial Moduli with its Applications](https://eprint.iacr.org/2024/1696)    
+   Haoxiang Jin, Feng-Hao Liu, Zhedong Wang and Yang Yu    
+   In Preceeding : Asiacrypt 2025  
 * [Do Not Disturb a Sleeping Falcon: Floating-Point Error Sensitivity of the Falcon Sampler and Its Consequences](https://eprint.iacr.org/2024/1709)    
    Xiuhan Lin, Mehdi Tibouchi, Yang Yu and Shiduo Zhang    
-   In Preceeding : EUROCRYPT 2025  
+   In Preceeding : Eurocrypt 2025  
 * [Thorough Power Analysis on Falcon Gaussian Samplers and Practical Countermeasure](https://eprint.iacr.org/2025/351)    
    Xiuhan Lin, Shiduo Zhang, Yang Yu, Weijia Wang, Qidi You, Ximing Xu and Xiaoyun Wang        
    In Proceeding : PKC 2025 
@@ -31,19 +37,19 @@ author_profile: true
    In Journal : Chinese Annals of Mathematics, Series B    
 * [Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures](https://eprint.iacr.org/2023/729)    
    Yang Yu, Huiwen Jia and Xiaoyun Wang    
-   In Preceeding : CRYPTO 2023 
+   In Preceeding : Crypto 2023 
 * [Improved Power Analysis Attacks on Falcon](https://eprint.iacr.org/2023/224)    
    Shiduo Zhang, Xiuhan Lin, Yang Yu and Weijia Wang    
-   In Preceeding : EUROCRYPT 2023    
+   In Preceeding : Eurocrypt 2023    
 * [Lattice-based cryptosystems in standardisation processes: A survey](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ise2.12101)    
    Anyu Wang, Dianyan Xiao and Yang Yu    
    In Journal : IET Information Security    
 * [Shorter Hash-and-Sign Lattice-Based Signatures](https://eprint.iacr.org/2022/785)    
    Thomas Espitau, Mehdi Tibouchi, Alexandre Wallet and Yang Yu    
-   In Preceeding : CRYPTO 2022    
+   In Preceeding : Crypto 2022    
 * [MITAKA: A Simpler, Parallelizable, Maskable Variant of Falcon](https://eprint.iacr.org/2021/1486)    
    Thomas Espitau, Pierre-Alain Fouque, François Gérard, Mélissa Rossi, Akira Takahashi, Mehdi Tibouchi, Alexandre Wallet and Yang Yu    
-   In Proceeding : EUROCRYPT 2022    
+   In Proceeding : Eurocrypt 2022    
    (Preliminary versions, [[ETTW21](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/espitau-mitaka-pqc2021.pdf)] and [[FGRY21](https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/yang-zalcon-pqc2021.pdf)] in Third NIST PQC Standardization Conference)
 * [BAT: Small and Fast KEM over NTRU Lattices](https://eprint.iacr.org/2022/031)    
    Pierre-Alain Fouque, Paul Kirchner, Thomas Pornin and Yang Yu    
