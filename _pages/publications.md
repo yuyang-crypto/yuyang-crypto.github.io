@@ -10,7 +10,7 @@ author_profile: true
    Shiduo Zhang, Huiwen Jia, Delong Ran, Yang Yu, Yu Yu and Xiaoyun Wang    
    In Preceeding : Asiacrypt 2025  
 * [Revisiting the Robustness of (R/M)LWR under Polynomial Moduli with its Applications](https://eprint.iacr.org/2024/1696)    
-   Haoxiang Jin, Feng-Hao Liu, Zhedong Wang and Yang Yu    
+   Zhedong Wang, Haoxiang Jin, Feng-Hao Liu and Yang Yu    
    In Preceeding : Asiacrypt 2025  
 * [Do Not Disturb a Sleeping Falcon: Floating-Point Error Sensitivity of the Falcon Sampler and Its Consequences](https://eprint.iacr.org/2024/1709)    
    Xiuhan Lin, Mehdi Tibouchi, Yang Yu and Shiduo Zhang    
