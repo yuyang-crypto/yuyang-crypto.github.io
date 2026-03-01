@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [Revisiting the Concrete Security of Falcon-type Signatures](https://eprint.iacr.org/2026/096)    
+   Huiwen Jia, Shiduo Zhang, Yang Yu and Chunming Tang    
+   In Preceeding : PKC 2026  
 * [GPV Preimage Sampling with Weak Smoothness and Its Applications to Lattice Signatures](https://eprint.iacr.org/2025/1940)    
    Shiduo Zhang, Huiwen Jia, Delong Ran, Yang Yu, Yu Yu and Xiaoyun Wang    
    In Preceeding : Asiacrypt 2025  
