@@ -9,16 +9,11 @@ author_profile: true
 
 Program Committee
 ======
-* [EAI SecureComm 2026](https://securecomm.eai-conferences.org/2026/), [PQCrypto 2026](https://pqcrypto2026.irisa.fr/), [FHE.org 2026](https://fhe.org/conferences/conference-2026/), [PKC 2026](https://pkc.iacr.org/2026/)    
-* [Inscrypt 2025](https://inscrypt2025.xidian.edu.cn/), [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html), [ICICS 2025](https://www.icics2025.org/index.html), [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/), [FHE.org 2025](https://fhe.org/conferences/conference-2025/), [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/)    
-* [Inscrypt 2024](https://inscrypt2024.github.io/#), [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)    
+* [PKC 2026](https://pkc.iacr.org/2026/), [PQCrypto 2026](https://pqcrypto2026.irisa.fr/), [FHE.org 2026](https://fhe.org/conferences/conference-2026/), [EAI SecureComm 2026](https://securecomm.eai-conferences.org/2026/)      
+* [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/), [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/), [FHE.org 2025](https://fhe.org/conferences/conference-2025/), [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html), [Inscrypt 2025](https://inscrypt2025.xidian.edu.cn/), [ICICS 2025](https://www.icics2025.org/index.html)    
+* [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024), [Inscrypt 2024](https://inscrypt2024.github.io/#)     
 * [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/), [PQCrypto 2023](https://pqcrypto2023.umiacs.io/), [Latincrypt 2023](https://www.espe.edu.ec/latincrypt/)    
 * [Inscrypt 2022](http://www.sklois.cn/inscrypt2022/), [Inscrypt 2021](https://inscrypt21.hotcrp.com/)
-
-Services 
-======
-* 中国科学院学部科学与技术前沿论坛“数理科学与人工智能” 论坛秘书. Nanjing. (December 2025)    
-* 联合组织 International Workshop on Lattices and Related Topics. Beijing. (June 2024)    
 
 Talks 
 ======
