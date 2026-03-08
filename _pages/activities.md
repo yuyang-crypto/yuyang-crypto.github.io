@@ -17,7 +17,7 @@ Program Committee
 
 Services 
 ======
-* 中国科学院学部科学与技术前沿论坛“数理科学与人工智能”. Nanjing. (December 2025)    
+* 中国科学院学部科学与技术前沿论坛“数理科学与人工智能” 论坛秘书. Nanjing. (December 2025)    
 * 联合组织 International Workshop on Lattices and Related Topics. Beijing. (June 2024)    
 
 Talks 
